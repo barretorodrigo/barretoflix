@@ -1,0 +1,52 @@
+{
+  "categorias": [
+    {
+      "titulo": "NodeJS",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Linguagem de programação",
+        "url": "https://www.youtube.com/watch?v=sKKdiF71b6s&list=PL1zOCWvRcCtbZ95sJmdRr94OfQCWYHy92"
+      },
+      "videos": [
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "Configuração do ambiente",
+          "url": "https://www.youtube.com/watch?v=sKKdiF71b6s&list=PL1zOCWvRcCtbZ95sJmdRr94OfQCWYHy92&index=2&t=0s"
+        },
+        {
+          "titulo": "Controle de Fluxo",
+          "url": "https://www.youtube.com/watch?v=mnwqtgCGPTA&list=PL1zOCWvRcCtbZ95sJmdRr94OfQCWYHy92&index=3&t=0s"
+        },
+        {
+          "titulo": "Estrutura de repetição",
+          "url": "https://www.youtube.com/watch?v=zUiC4r3Zp44&list=PL1zOCWvRcCtbZ95sJmdRr94OfQCWYHy92&index=4&t=329s"
+        },
+        {
+          "titulo": "Funções e Arrow Functions",
+          "url": "https://www.youtube.com/watch?v=Io3ZIqcrwXw&list=PL1zOCWvRcCtbZ95sJmdRr94OfQCWYHy92&index=5&t=1s"
+        }
+      ]
+    },
+    {
+      "titulo": "Shell",
+      "cor": "#000",
+      "link_extra": {
+        "text": "Comandos linux",
+        "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+      },
+      "videos": [
+        {
+          "titulo": "Comandos básicos para navegação",
+          "url": "https://www.youtube.com/watch?v=tVPxryvQQc8&t=1s"
+        },
+        {
+          "titulo": "Manipulação de arquivos e diretórios",
+          "url": "https://www.youtube.com/watch?v=pF4-k-9wUGc"
+        }
+      ]
+    }
+  ]
+}
